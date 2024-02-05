@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>✨ †hê Hêllẞø† - ᴍᴜsɪᴄ 🎶</b>
+  <b>✨❍⏤͟͞•꯭ᴋᴀsʜɪ ❍͢͠ᴘ𓆪✨🥀 - ᴍᴜsɪᴄ 🎶</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5d5642103804ae180e40b.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://telegra.ph/file/9bca7848186cff633683c.jpg" alt="The-Kashibot" width=500 height=300>
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ❍⏤͟͞•꯭𝐊𝐀𝐒𝐇𝐈 𝐌𝐔𝐒𝐈𝐂𓆪✨🥀 ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -97,10 +97,10 @@ This is a light weight source, as a result it gives faster and better performanc
 </p>
 
 <h4 align="center">
-    Copyright (C) 2023 <a href="https://github.com/The-HellBot">The-HellBot</a>
+    Copyright (C) 2023 <a href="https://github.com/Abhixpromax/KASHI-Music">The-HellBot</a>
 </h4>
 
-Project [HellBot Music](https://github.com/The-HellBot/Music) is free software: you can redistribute it and/or modify
+Project [HellBot Music](https://github.com/Abhixpromax/KASHI-Music) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -116,6 +116,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 - 💖 All the Dependencies
 - 💖 [ProRaiden](https://github.com/ProRaiden)
-- 💖 [HellBoy](https://github.com/HellBoy-OP)
+- 💖 [HellBoy](https://github.com/vidhayakxpro)
 
 ------
